@@ -149,11 +149,6 @@ GET https://api.openweathermap.org/data/2.5/weather?units=metric&q={city}&appid=
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
 
